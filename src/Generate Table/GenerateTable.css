@@ -1,0 +1,24 @@
+.wrapper input{
+    padding: 0.7rem;
+    border-radius: 0.7rem;
+    box-shadow: 0.2rem 0.2rem 0.5rem gray;
+    border: none;
+    margin-bottom: 1.5rem;
+    width: 18vw;
+}
+
+.table {
+  border-collapse: collapse;
+  width: 50vh;
+}
+
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f2f2f2;
+  color: black;
+}
